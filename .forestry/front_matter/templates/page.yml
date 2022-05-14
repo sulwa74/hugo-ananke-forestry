@@ -12,5 +12,6 @@ fields:
   name: description
   label: description
 pages:
+- content/Test/testova.md
 - content/_index.md
 - content/about/_index.md
